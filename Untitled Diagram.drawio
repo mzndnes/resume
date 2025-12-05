@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
+  <diagram name="Page-1" id="8xKlHgKj0isd2tvkYNKV">
+    <mxGraphModel dx="692" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="General Purpose Register" vertex="1">
+          <mxGeometry height="60" width="160" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Special Purpose Register" vertex="1">
+          <mxGeometry height="60" width="160" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Accumulator" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Stack Pointer" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Program Counter" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kIPkDVMKJPnnfi3AXc6X-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
