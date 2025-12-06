@@ -13,18 +13,6 @@
         <mxCell id="kIPkDVMKJPnnfi3AXc6X-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Special Purpose Register" vertex="1">
           <mxGeometry height="60" width="160" x="520" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="kIPkDVMKJPnnfi3AXc6X-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
-          <mxGeometry height="60" width="160" x="120" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="kIPkDVMKJPnnfi3AXc6X-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
-          <mxGeometry height="60" width="160" x="120" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="kIPkDVMKJPnnfi3AXc6X-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
-          <mxGeometry height="60" width="160" x="120" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="kIPkDVMKJPnnfi3AXc6X-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Register" vertex="1">
-          <mxGeometry height="60" width="160" x="120" y="480" as="geometry" />
-        </mxCell>
         <mxCell id="kIPkDVMKJPnnfi3AXc6X-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" value="Accumulator" vertex="1">
           <mxGeometry height="60" width="160" x="642" y="240" as="geometry" />
         </mxCell>
