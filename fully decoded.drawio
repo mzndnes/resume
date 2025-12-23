@@ -100,7 +100,7 @@
         <mxCell id="kldFWu4LVgNbJ53k7Eu_-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="FFFFH" vertex="1">
           <mxGeometry height="30" width="60" x="960" y="605" as="geometry" />
         </mxCell>
-        <mxCell id="kldFWu4LVgNbJ53k7Eu_-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="kldFWu4LVgNbJ53k7Eu_-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Decoder" vertex="1">
           <mxGeometry height="400" width="200" x="240" y="240" as="geometry" />
         </mxCell>
         <mxCell id="kldFWu4LVgNbJ53k7Eu_-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
