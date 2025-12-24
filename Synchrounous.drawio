@@ -19,6 +19,14 @@
         <mxCell id="yC5aap5Ihi7GC3RArgY8-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="STOP" vertex="1">
           <mxGeometry height="80" width="120" x="80" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="yC5aap5Ihi7GC3RArgY8-16" edge="1" parent="1" source="yC5aap5Ihi7GC3RArgY8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="yC5aap5Ihi7GC3RArgY8-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="150" />
+              <mxPoint x="410" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yC5aap5Ihi7GC3RArgY8-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="START" vertex="1">
           <mxGeometry height="80" width="120" x="350" y="40" as="geometry" />
         </mxCell>
