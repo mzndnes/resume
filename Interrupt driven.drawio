@@ -19,10 +19,10 @@
         <mxCell id="ALFWBmHfI05Szu_xsR8u-19" edge="1" parent="1" source="ALFWBmHfI05Szu_xsR8u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="ALFWBmHfI05Szu_xsR8u-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALFWBmHfI05Szu_xsR8u-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="SAVE PROCESSOR STATUS AND JUMP TO ISS" vertex="1">
+        <mxCell id="ALFWBmHfI05Szu_xsR8u-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="PUSH PROCESSOR STATUS, EXECUTE ISS" vertex="1">
           <mxGeometry height="60" width="200" x="270" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="ALFWBmHfI05Szu_xsR8u-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="START" vertex="1">
+        <mxCell id="ALFWBmHfI05Szu_xsR8u-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="END" vertex="1">
           <mxGeometry height="80" width="120" x="310" y="720" as="geometry" />
         </mxCell>
         <mxCell id="ALFWBmHfI05Szu_xsR8u-18" edge="1" parent="1" source="ALFWBmHfI05Szu_xsR8u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="ALFWBmHfI05Szu_xsR8u-6" value="">
