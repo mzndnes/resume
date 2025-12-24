@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="rKdiqjP2eOjIh_PDsxXb">
-    <mxGraphModel>
+    <mxGraphModel dx="806" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="15rU3AogzRMLujrtBnES-10" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="START" vertex="1">
+          <mxGeometry height="80" width="120" x="281" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-12" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="INITIALIZE DMA CONTROLLER" vertex="1">
+          <mxGeometry height="60" width="200" x="241" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-28" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="GENERATE DMA GRANT SIGNAL" vertex="1">
+          <mxGeometry height="60" width="200" x="241" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="END" vertex="1">
+          <mxGeometry height="80" width="120" x="281" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-29" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;" value="IS THERE ANY INTERRUPT?" vertex="1">
+          <mxGeometry height="140" width="160" x="261" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="531" as="sourcePoint" />
+            <mxPoint x="141" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="530.5" as="sourcePoint" />
+            <mxPoint x="140" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;endFill=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="341" y="322" as="sourcePoint" />
+            <mxPoint x="141" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="N" vertex="1">
+          <mxGeometry height="30" width="30" x="160" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Y" vertex="1">
+          <mxGeometry height="30" width="30" x="80" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-30" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="SEND GET READY TO IO" vertex="1">
+          <mxGeometry height="60" width="200" x="241" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-27" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="FETCH AND EXECUTE INSTRUCTION" vertex="1">
+          <mxGeometry height="60" width="200" x="241" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-36" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="PERFORM BLOCK DATA TRANSFER" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-35" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="DMA CONTROLLER SENDS DMA REQ" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-34" edge="1" parent="1" source="15rU3AogzRMLujrtBnES-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="15rU3AogzRMLujrtBnES-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15rU3AogzRMLujrtBnES-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="I/O DEVICE SENDS DMA REQUEST" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
