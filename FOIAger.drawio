@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="3FlpSkdLeqvTt-TnNzJJ">
+    <mxGraphModel dx="806" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-7" edge="1" parent="1" source="cDDBFU8XyxFocPCnIgmM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="cDDBFU8XyxFocPCnIgmM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="System to search the relevant document and draft the complaint" vertex="1">
+          <mxGeometry height="230" width="200" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="Query to draft the complaint againts defamant based upon the evidence" vertex="1">
+          <mxGeometry height="90" width="170" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="Complaint Draft provided with evidences and citation with document number and page number." vertex="1">
+          <mxGeometry height="210" width="160" x="420" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-6" edge="1" parent="1" source="cDDBFU8XyxFocPCnIgmM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="cDDBFU8XyxFocPCnIgmM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
