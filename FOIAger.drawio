@@ -7,7 +7,7 @@
         <mxCell id="SRT1wPJo7ih6ls-fSItg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" value="" vertex="1">
           <mxGeometry height="680" width="380" x="350" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="cDDBFU8XyxFocPCnIgmM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="Query to draft the complaint againts defamant based upon the evidence" vertex="1">
+        <mxCell id="cDDBFU8XyxFocPCnIgmM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" value="Query to draft the complaint againts defendant based upon the evidence" vertex="1">
           <mxGeometry height="90" width="170" x="50" y="320" as="geometry" />
         </mxCell>
         <mxCell id="SRT1wPJo7ih6ls-fSItg-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="RAG sub system to search relevant documents and evidence details in the document" vertex="1">
