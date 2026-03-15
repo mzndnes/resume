@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="FVqbJ1rD4-3f-HVVkL8P">
-    <mxGraphModel dx="1445" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,47 +10,14 @@
         <mxCell id="ZRL1veszXbXLOnqcmFIP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Program" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-18" edge="1" parent="1" source="ZRL1veszXbXLOnqcmFIP-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" target="ZRL1veszXbXLOnqcmFIP-6" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="ML Algorithm" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="440" as="geometry" />
-        </mxCell>
         <mxCell id="ZRL1veszXbXLOnqcmFIP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Output" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="80" as="geometry" />
         </mxCell>
         <mxCell id="ZRL1veszXbXLOnqcmFIP-15" edge="1" parent="1" source="ZRL1veszXbXLOnqcmFIP-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" target="ZRL1veszXbXLOnqcmFIP-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Input" vertex="1">
+        <mxCell id="ZRL1veszXbXLOnqcmFIP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="Input" vertex="1">
           <mxGeometry height="60" width="120" x="-200" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-17" edge="1" parent="1" source="ZRL1veszXbXLOnqcmFIP-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" target="ZRL1veszXbXLOnqcmFIP-2" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Dataset" vertex="1">
-          <mxGeometry height="60" width="120" x="-200" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-20" edge="1" parent="1" source="ZRL1veszXbXLOnqcmFIP-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" target="ZRL1veszXbXLOnqcmFIP-9" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Program/ ML Model" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-19" edge="1" parent="1" source="ZRL1veszXbXLOnqcmFIP-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=2;" target="ZRL1veszXbXLOnqcmFIP-6" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Input" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" value="Output/ Prediction" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Traditional Programming Approach" vertex="1">
-          <mxGeometry height="30" width="300" x="-44" y="-8" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRL1veszXbXLOnqcmFIP-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Machine Learning Approach" vertex="1">
-          <mxGeometry height="30" width="300" x="-137" y="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
