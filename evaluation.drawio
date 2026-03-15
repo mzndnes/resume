@@ -90,8 +90,11 @@
         <mxCell id="Ej74wium_hJEggdX6RZi-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Y" vertex="1">
           <mxGeometry height="30" width="60" x="558" y="564" as="geometry" />
         </mxCell>
+        <mxCell id="Ej74wium_hJEggdX6RZi-48" edge="1" parent="1" source="Ej74wium_hJEggdX6RZi-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="Ej74wium_hJEggdX6RZi-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ej74wium_hJEggdX6RZi-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="Validation Dataset (20%)" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="720" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
