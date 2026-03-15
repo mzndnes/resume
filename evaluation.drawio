@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="_M65EofqHofoWcInBHdg">
+    <mxGraphModel dx="806" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c_HrG-RUHicY621ZKbAf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="Training Dataset (60%)" vertex="1">
+          <mxGeometry height="60" width="200" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_HrG-RUHicY621ZKbAf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="Validation Dataset (20%)" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_HrG-RUHicY621ZKbAf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" value="Testing Dataset (20%)" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_HrG-RUHicY621ZKbAf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" value="ML Algorithm" vertex="1">
+          <mxGeometry height="80" width="160" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="c_HrG-RUHicY621ZKbAf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" value="Model" vertex="1">
+          <mxGeometry height="80" width="160" x="160" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
