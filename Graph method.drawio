@@ -109,6 +109,12 @@
         <mxCell id="Ml4Ql19CaX9xTliP9EH--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="112" x="63" y="11" as="geometry" />
         </mxCell>
+        <mxCell id="Ml4Ql19CaX9xTliP9EH--16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Search Tree" vertex="1">
+          <mxGeometry height="30" width="112" x="370" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml4Ql19CaX9xTliP9EH--17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Search Tree" vertex="1">
+          <mxGeometry height="30" width="112" x="363" y="329" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
