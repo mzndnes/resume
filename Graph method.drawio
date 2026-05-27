@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BSzVWueWxRZ0f2yqvMc-">
-    <mxGraphModel dx="772" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="656" dy="351" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,19 +50,19 @@
           <mxGeometry height="60" width="70" x="229" y="452" as="geometry" />
         </mxCell>
         <mxCell id="DJkdPokyCSNuBn839fvl-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Timisoara" vertex="1">
-          <mxGeometry height="60" width="70" x="379" y="452" as="geometry" />
+          <mxGeometry height="60" width="70" x="380" y="444" as="geometry" />
         </mxCell>
         <mxCell id="DJkdPokyCSNuBn839fvl-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Zerind" vertex="1">
-          <mxGeometry height="60" width="70" x="509" y="452" as="geometry" />
+          <mxGeometry height="60" width="70" x="510" y="435" as="geometry" />
         </mxCell>
         <mxCell id="DJkdPokyCSNuBn839fvl-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Fagaras" vertex="1">
-          <mxGeometry height="60" width="70" x="40" y="550" as="geometry" />
+          <mxGeometry height="60" width="70" x="130" y="557" as="geometry" />
         </mxCell>
         <mxCell id="DJkdPokyCSNuBn839fvl-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Oradea" vertex="1">
-          <mxGeometry height="60" width="70" x="174" y="550" as="geometry" />
+          <mxGeometry height="60" width="70" x="229" y="555" as="geometry" />
         </mxCell>
         <mxCell id="DJkdPokyCSNuBn839fvl-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Rimnicu vilcea" vertex="1">
-          <mxGeometry height="60" width="70" x="290" y="550" as="geometry" />
+          <mxGeometry height="60" width="70" x="318" y="549" as="geometry" />
         </mxCell>
         <mxCell id="Ml4Ql19CaX9xTliP9EH--1" edge="1" parent="1" source="DJkdPokyCSNuBn839fvl-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="DJkdPokyCSNuBn839fvl-18">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="Ml4Ql19CaX9xTliP9EH--14" edge="1" parent="1" source="Ml4Ql19CaX9xTliP9EH--8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="Ml4Ql19CaX9xTliP9EH--13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml4Ql19CaX9xTliP9EH--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Search Tree" vertex="1">
+          <mxGeometry height="30" width="112" x="63" y="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
