@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BSzVWueWxRZ0f2yqvMc-">
-    <mxGraphModel dx="635" dy="-742" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="-742" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--32" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="C" vertex="1">
           <mxGeometry height="40" width="42" x="442" y="2200" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="421" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--40" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="D" vertex="1">
@@ -166,7 +166,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--42" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="A" vertex="1">
           <mxGeometry height="40" width="42" x="200" y="2120" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="180" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--44" edge="1" parent="1" source="leJ_CQFsEEDb8NTlPus--47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" target="leJ_CQFsEEDb8NTlPus--48" value="">
@@ -193,7 +193,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--49" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="C" vertex="1">
           <mxGeometry height="40" width="42" x="320" y="2360" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="296" y="2251" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--51" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="D" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--70" edge="1" parent="1" source="leJ_CQFsEEDb8NTlPus--64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.319;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="leJ_CQFsEEDb8NTlPus--69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="458" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--75" edge="1" parent="1" source="leJ_CQFsEEDb8NTlPus--78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" target="leJ_CQFsEEDb8NTlPus--81" value="">
@@ -292,7 +292,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--87" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="G" vertex="1">
           <mxGeometry height="40" width="42" x="570" y="3109" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="550" y="2920" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--126" edge="1" parent="1" source="leJ_CQFsEEDb8NTlPus--129" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" target="leJ_CQFsEEDb8NTlPus--131" value="">
@@ -342,7 +342,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--140" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="H" vertex="1">
           <mxGeometry height="40" width="42" x="285" y="3150" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="182" y="2960" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--144" edge="1" parent="1" source="leJ_CQFsEEDb8NTlPus--147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" target="leJ_CQFsEEDb8NTlPus--149" value="">
@@ -398,7 +398,7 @@
         <mxCell id="leJ_CQFsEEDb8NTlPus--158" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="H" vertex="1">
           <mxGeometry height="40" width="42" x="683" y="3440" as="geometry" />
         </mxCell>
-        <mxCell id="leJ_CQFsEEDb8NTlPus--159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State Space" vertex="1">
+        <mxCell id="leJ_CQFsEEDb8NTlPus--159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Search Tree" vertex="1">
           <mxGeometry height="30" width="95" x="580" y="3250" as="geometry" />
         </mxCell>
         <mxCell id="leJ_CQFsEEDb8NTlPus--160" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="I" vertex="1">
